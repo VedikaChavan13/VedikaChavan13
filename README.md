@@ -14,7 +14,7 @@
 ## 🙋‍♀️ About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VedikaChavan13/VedikaChavan13/main/julientromeur-cartoon-629.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/VedikaChavan13/VedikaChavan13/main/new-game-ahagon-umiko-programming.gif" width="300"/>
 </p>
 
 - 🎓 Master's student in **Computer Science** at **Binghamton University** *(Expected May 2026)*  
