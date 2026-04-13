@@ -13,17 +13,26 @@
 ---
 
 ## 🙋‍♀️ About Me
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</p>
-- 🎓 Master's student in **Computer Science** at **Binghamton University** *(Expected May 2026)*
-- 💻 Backend-focused developer with strong foundations in **data structures, algorithms, and scalable system design**
-- ⚙️ Experienced in building applications using **Java, Spring Boot, React Native, Flask, and Node.js**
-- ☁️ Interested in **distributed systems, cloud-native engineering, microservices, and performance optimization**
-- 🚀 Contributed to production-grade features during my time at **Uplifty AI**
-- 📚 Currently exploring deeper work in **system design, Kubernetes, and LLM-based systems**
 
----
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 Master's student in **Computer Science** at **Binghamton University** *(Expected May 2026)*  
+- 💻 Backend-focused developer with strong foundations in **data structures, algorithms, and scalable system design**  
+- ⚙️ Experienced in building applications using **Java, Spring Boot, React Native, Flask, and Node.js**  
+- ☁️ Interested in **cloud-native engineering, microservices, and performance optimization**  
+- 🚀 Contributed to production-grade features at **Uplifty AI**  
+- 📚 Currently exploring **system design, Kubernetes, and LLM-based systems**
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
