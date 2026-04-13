@@ -26,13 +26,11 @@
 </td>
 
 <td width="40%">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/VedikaChavan13/VedikaChavan13/main/julientromeur-cartoon-629.gif" width="100%" />
 </td>
 
 </tr>
 </table>
-
-
 
 ## 🛠️ Tech Stack
 
