@@ -26,11 +26,13 @@
 </td>
 
 <td width="40%">
-<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" />
 </td>
 
 </tr>
 </table>
+
+
 
 ## 🛠️ Tech Stack
 
