@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Vedika Chavan 👋</h1>
-<h3 align="center">Backend Engineer • Systems Builder • MS CS @ Binghamton University</h3>
+<h3 align="center">Backend Engineer • Java • Spring Boot • Cloud & AI/ML Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineer+focused+on+scalable+systems;Building+production-style+projects+with+Java+and+Spring+Boot;Interested+in+distributed+systems%2C+cloud%2C+and+system+design;Always+learning+through+real-world+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Backend+Engineer+building+scalable+applications;Java+%7C+Spring+Boot+%7C+Cloud+Technologies;Designing+production-ready+backend+systems;Exploring+AI%2FML+systems+and+real-world+engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VedikaChavan13&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
 
 ---
 
