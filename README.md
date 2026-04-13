@@ -11,10 +11,11 @@
 
 
 ---
+## 🙋‍♀️ About Me
 
-<table>
-<tr>
-<td width="60%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VedikaChavan13/VedikaChavan13/main/julientromeur-cartoon-629.gif" width="250"/>
+</p>
 
 - 🎓 Master's student in **Computer Science** at **Binghamton University** *(Expected May 2026)*  
 - 💻 Backend-focused developer with strong foundations in **data structures, algorithms, and scalable system design**  
@@ -22,15 +23,6 @@
 - ☁️ Interested in **cloud-native engineering, microservices, and performance optimization**  
 - 🚀 Contributed to production-grade features at **Uplifty AI**  
 - 📚 Currently exploring **system design, Kubernetes, and LLM-based systems**
-
-</td>
-
-<td width="40%">
-<img src="https://raw.githubusercontent.com/VedikaChavan13/VedikaChavan13/main/julientromeur-cartoon-629.gif" width="100%" />
-</td>
-
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
