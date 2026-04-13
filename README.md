@@ -13,7 +13,9 @@
 ---
 
 ## 🙋‍♀️ About Me
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 - 🎓 Master's student in **Computer Science** at **Binghamton University** *(Expected May 2026)*
 - 💻 Backend-focused developer with strong foundations in **data structures, algorithms, and scalable system design**
 - ⚙️ Experienced in building applications using **Java, Spring Boot, React Native, Flask, and Node.js**
