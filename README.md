@@ -71,25 +71,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Parallel Job Scheduler
-A multithreaded job scheduler in Java using `ThreadPoolExecutor` and `BlockingQueue`, with support for **FCFS, Priority, Round Robin, and SJF** scheduling strategies. Built with thread-safe execution, retry handling, and structured logging.
-
-### 🔹 Ride-Sharing Backend System
-A production-style backend built with **Spring Boot, MySQL, Redis, and Docker Compose**. Includes schema design, Flyway migrations, observability with Spring Boot Actuator, and backend architecture focused on reliability and scalability.
-
-### 🔹 High-Performance In-Memory Analytics Engine
-A Java-based OLAP-style analytics engine using **columnar storage, vectorized execution, and caching** to support high-volume query processing and aggregation.
-
-### 🔹 JVM-Level Dynamic Profiler & Debugger
-A JVM agent for detecting **performance bottlenecks, thread contention, memory leaks, and deadlocks**, with deployment support in Docker/Kubernetes environments.
-
-### 🔹 Travel Expense Splitter & Budget Analyzer
-A Java-based expense management app with **real-time expense tracking, group cost splitting, currency conversion, payment integration, and AWS deployment**.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
