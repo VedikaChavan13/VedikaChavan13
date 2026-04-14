@@ -38,7 +38,6 @@
 
 <p align="center">
   <i>Explore my pinned repositories below 👇</i><br/>
-  Backend systems • Cloud engineering • Scalable applications
 </p>
 
 ---
