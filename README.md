@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/VedikaChavan13/VedikaChavan13/main/new-game-ahagon-umiko-programming.gif" width="300"/>
 </p>
 
-- 🎓 MS Computer Science @ Binghamton University *(May 2026)*  
+- 🎓 MS Computer Science @ Binghamton University 
 - 💻 Backend engineer with strong foundations in **DSA, system design, and scalable architectures**  
 - ⚙️ Experienced in building production-style systems using **Java, Spring Boot, Flask, and Node.js**  
 - ☁️ Focused on **cloud-native applications, microservices, and performance optimization**  
@@ -54,20 +54,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedikaChavan13&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedikaChavan13&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🎯 Goals
 
-- Build production-grade backend and distributed systems  
-- Deepen expertise in cloud architecture and scalability  
-- Contribute to high-impact engineering teams  
+- Solve challenging engineering problems at scale  
+- Build reliable and maintainable systems with strong design fundamentals  
+- Grow through hands-on experience in real-world system design   
 
 ---
 
