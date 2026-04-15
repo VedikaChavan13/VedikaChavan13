@@ -104,4 +104,4 @@
 ## 🤝 Connect
 
 - 📧 vchavan@binghamton.edu  
-- 💼 https://linkedin.com/in/vedika-chavan-31920a180  
+- 💼 https://www.linkedin.com/in/vedikachavan/
